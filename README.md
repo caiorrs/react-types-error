@@ -1,27 +1,9 @@
 # react-native-test-lib
-
-unit test lib
-
-## Installation
-
-```sh
-npm install react-native-test-lib
-```
-
-## Usage
-
-```js
-import { multiply } from "react-native-test-lib";
-
-// ...
-
-const result = await multiply(3, 7);
-```
-
-## Contributing
-
-See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
-
-## License
-
-MIT
+<br/>
+repo to demonstrate issues with react types
+<br/>
+<br/>
+look the components and run `yarn tsc` you will get a lot of errors
+<br/>
+<br/>
+VSCode also shoes the errors when opening the files
